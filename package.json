@@ -1,0 +1,23 @@
+{
+  "name": "learn-webpack",
+  "version": "1.0.0",
+  "description": "checkout dev branch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laker007/learn-webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laker007/learn-webpack/issues"
+  },
+  "homepage": "https://github.com/laker007/learn-webpack#readme",
+  "dependencies": {
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
+  }
+}
